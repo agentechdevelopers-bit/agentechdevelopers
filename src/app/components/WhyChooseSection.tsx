@@ -22,7 +22,7 @@ const features = [
   },
   {
     icon: 'MagnifyingGlassIcon',
-    title: 'Google Indexed from Day 1',
+    title: 'Google Indexing',
     description:
       'We add your website to Google Search Console so parents and students can find your school on Google immediately after launch.',
     highlight: false,
@@ -147,9 +147,9 @@ export default function WhyChooseSection() {
                 <Icon name="MagnifyingGlassIcon" size={24} className="text-accent" />
               </div>
               <div>
-                <h3 className="text-xl font-extrabold text-foreground mb-2">Google Indexed from Day 1</h3>
+                <h3 className="text-xl font-extrabold text-foreground mb-2">Google Indexing</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  We add your website to Google Search Console so parents and students can find your school on Google immediately after launch.
+                  We add your website to Google Search Console so parents and students can find your school on Google search results.
                 </p>
               </div>
             </div>
@@ -168,7 +168,7 @@ export default function WhyChooseSection() {
               <div>
                 <h3 className="text-xl font-extrabold text-foreground mb-2">Full Year of Maintenance</h3>
                 <p className="text-muted-foreground text-base leading-relaxed max-w-lg">
-                  Content updates, security patches, and technical support for 12 months post-launch — no additional charges. Your school website stays fresh and secure.
+                  Content updates, maintainance and technical support for 12 months post-launch — no additional charges. Your school website stays fresh and secure.
                 </p>
               </div>
             </div>
