@@ -46,7 +46,7 @@ const services = [
     icon: 'WrenchScrewdriverIcon',
     title: '1-Year Website Maintenance',
     description:
-      'For a full 12 months after launch, we handle all content updates, security patches, and technical fixes at no additional cost. Your website stays current, secure, and working perfectly.',
+      'For a full 12 months after launch, we handle all content updates and technical fixes at no additional cost. Your website stays current, secure, and working perfectly.',
     features: ['Content updates', 'Security patches', 'Technical support', '12-month coverage'],
     span: 'large',
   },
