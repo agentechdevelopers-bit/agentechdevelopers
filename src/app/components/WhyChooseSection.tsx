@@ -74,7 +74,7 @@ export default function WhyChooseSection() {
           <span className="section-label text-accent">Why Choose Us</span>
           <h2 className="text-section-title font-extrabold text-foreground mt-3 mb-5">
             Everything Your School Needs.<br />
-            <span className="text-gradient-gold">Nothing You Don&apos;t.</span>
+            
           </h2>
           <p className="text-base text-muted-foreground leading-relaxed">
             We handle the entire digital setup for your school — from building the website to making sure Google can find it.
