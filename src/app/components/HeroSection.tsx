@@ -65,13 +65,13 @@ export default function HeroSection() {
         {/* Eyebrow */}
         <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full border border-accent/20 bg-white/60 backdrop-blur-sm">
           <span className="w-2 h-2 rounded-full bg-accent animate-pulse" aria-hidden="true" />
-          <span className="section-label text-accent">Registered Web Development Agency · Hyderabad, India</span>
+          <span className="section-label text-accent">Registered Web Developers · Hyderabad, India</span>
         </div>
 
         {/* Main headline */}
         <h1 className="text-hero-xl font-extrabold text-foreground tracking-tight">
-          Your School Deserves<br />
-          <span className="text-gradient-gold">A Website That Works.</span>
+          Parents Judge Before They Visit<br />
+          <span className="text-gradient-gold">Make It Count</span>
         </h1>
 
         {/* Subheadline */}
