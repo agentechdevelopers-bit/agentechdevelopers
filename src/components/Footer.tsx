@@ -74,15 +74,6 @@ export default function Footer() {
           <p className="text-xs text-muted-foreground">
             © {new Date()?.getFullYear()} Agentech Developers. All rights reserved.
           </p>
-          <div className="flex items-center gap-6">
-            <Link href="/contact" className="text-xs font-semibold text-muted-foreground hover:text-foreground transition-colors">
-              Privacy Policy
-            </Link>
-            <Link href="/contact" className="text-xs font-semibold text-muted-foreground hover:text-foreground transition-colors">
-              Terms of Service
-            </Link>
-            <span className="text-xs text-muted-foreground">Hyderabad, Telangana</span>
-          </div>
         </div>
       </div>
     </footer>
