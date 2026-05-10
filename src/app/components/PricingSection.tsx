@@ -68,16 +68,7 @@ export default function PricingSection() {
               className="price-reveal space-y-4"
               style={{ opacity: 0, transform: 'translateY(40px)', transition: 'opacity 0.8s ease 0.1s, transform 0.8s ease 0.1s' }}
             >
-              <div className="flex items-center justify-between p-4 rounded-xl bg-red-50 border border-red-100">
-                <div className="flex items-center gap-3">
-                  <span className="text-red-400 text-lg" aria-hidden="true">✕</span>
-                  <div>
-                    <div className="font-bold text-foreground text-sm">Other Agencies</div>
-                    <div className="text-xs text-muted-foreground">Basic website only, maintenance extra</div>
-                  </div>
-                </div>
-                <div className="font-extrabold text-red-500 text-base">₹30,000+</div>
-              </div>
+  
 
               <div className="flex items-center justify-between p-4 rounded-xl bg-accent/10 border border-accent/20">
                 <div className="flex items-center gap-3">
