@@ -59,7 +59,7 @@ export default function PricingSection() {
                 <span className="text-gradient-gold">Prices Schools Can Afford.</span>
               </h2>
               <p className="text-base text-muted-foreground leading-relaxed">
-                Most web agencies charge ₹30,000 to ₹80,000+ for a school website — and then charge extra for every small update. We do it differently. Our complete package is priced to be accessible for schools of all sizes across Telangana and India.
+                Many web agencies offer school websites with high upfront costs and additional charges for routine updates. We believe schools deserve a professional, modern online presence without unnecessary complexity or hidden expenses. That’s why our website packages are designed to be affordable, transparent, and accessible for institutions across Telangana and India.
               </p>
             </div>
 
