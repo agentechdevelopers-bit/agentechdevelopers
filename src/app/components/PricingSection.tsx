@@ -6,7 +6,7 @@ import Icon from '@/components/ui/AppIcon';
 
 const included = [
   'Custom website design tailored for your school',
-  'Domain name purchase (your choice of .in / .com)',
+  'Domain name purchase ',
   'Full website deployment on professional hosting',
   'Google Search Console setup & sitemap submission',
   'Google Business Profile creation & verification',
