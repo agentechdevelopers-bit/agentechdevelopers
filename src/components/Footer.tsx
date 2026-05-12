@@ -65,6 +65,17 @@ export default function Footer() {
                   agentechdevelopers@gmail.com
                 </a>
               </div>
+              <div className="flex items-center gap-3">
+                <Icon name="LinkedinIcon" size={16} className="text-accent shrink-0" />
+                <a
+                  href="https://www.linkedin.com/company/agentech-developers"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-muted-foreground hover:text-accent transition-colors font-medium"
+                >
+                  LinkedIn
+                </a>
+              </div>
             </address>
           </div>
         </div>
