@@ -21,13 +21,13 @@ export const metadata: Metadata = {
     'Google Search Console school India',
   ],
   alternates: {
-    canonical: 'https://agentechdevelopers.com/services',
+    canonical: 'https://agentechdevelopers.vercel.app/services',
   },
   openGraph: {
     title: 'Services — School Website Development | AgentechDevelopers',
     description:
       'Complete school website services: custom development, domain, deployment, Google indexing, maintenance, and Google Business Profile.',
-    url: 'https://agentechdevelopers.com/services',
+    url: 'https://agentechdevelopers.vercel.app/services',
   },
 };
 
@@ -46,12 +46,12 @@ export default function ServicesPage() {
               name: 'Services — AgentechDevelopers',
               description:
                 'Complete school website services including custom development, domain, deployment, Google Search Console, maintenance, and Google Business Profile.',
-              url: 'https://agentechdevelopers.com/services',
+              url: 'https://agentechdevelopers.vercel.app/services',
               breadcrumb: {
                 '@type': 'BreadcrumbList',
                 itemListElement: [
-                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.com' },
-                  { '@type': 'ListItem', position: 2, name: 'Services', item: 'https://agentechdevelopers.com/services' },
+                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.vercel.app' },
+                  { '@type': 'ListItem', position: 2, name: 'Services', item: 'https://agentechdevelopers.vercel.app/services' },
                 ],
               },
             }),
