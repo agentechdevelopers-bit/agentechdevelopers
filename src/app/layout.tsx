@@ -16,7 +16,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://agentechdevelopers.com'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://agentechdevelopers.vercel.app'),
   title: 'School Website Development Agency Hyderabad | Agentech Developers',
   description:
     'Agentech Developers is the top school website development agency in Hyderabad. We build affordable, custom school websites in Telangana with domain setup, Google Search Console indexing, and free maintenance.',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     'custom school website Telangana',
     'Agentech Developers'
   ],
-  authors: [{ name: 'Agentech Developers', url: 'https://agentechdevelopers.com' }],
+  authors: [{ name: 'Agentech Developers', url: 'https://agentechdevelopers.vercel.app' }],
   creator: 'Agentech Developers',
   publisher: 'Agentech Developers',
   robots: {
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     images: ['/assets/images/app_logo.png']
   },
   alternates: {
-    canonical: 'https://agentechdevelopers.com'
+    canonical: 'https://agentechdevelopers.vercel.app'
   },
   icons: {
     icon: [{ url: '/favicon.ico', type: 'image/x-icon' }]
@@ -117,7 +117,7 @@ export default function RootLayout({
                 'name': 'Udyam Registration Number',
                 'value': 'UDYAM-TS-20-0188729'
               },
-              'sameAs': ['https://agentechdevelopers.com']
+              'sameAs': ['https://agentechdevelopers.vercel.app']
             })
           }}
         />
