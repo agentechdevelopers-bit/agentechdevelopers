@@ -11,12 +11,12 @@ import PricingSection from './components/PricingSection';
 import CTASection from './components/CTASection';
 
 export const metadata: Metadata = {
-  title: 'AgentechDevelopers — School Websites Built to Rank | Hyderabad',
+  title: 'School Website Design Telangana & Hyderabad | Custom Solutions',
   description:
-    'Agentech Developers builds professional school websites in Hyderabad at below-market rates — domain, deployment, Google Search Console, Google Business Profile & 1-year maintenance included.',
+    'Affordable school website development services by Agentech Developers in Hyderabad. Explore premium website design packages for schools in Telangana complete with SEO setup.',
   alternates: {
-    canonical: 'https://agentechdevelopers.com',
-  },
+    canonical: 'https://agentechdevelopers.com'
+  }
 };
 
 export default function HomePage() {
@@ -24,24 +24,23 @@ export default function HomePage() {
     <>
       <Header />
       <main id="main-content">
-        {/* JSON-LD for Homepage */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'WebPage',
-              name: 'AgentechDevelopers Homepage',
-              description:
+              'name': 'Agentech Developers - School Website Development Hyderabad',
+              'description':
                 'Professional school website development agency in Hyderabad offering affordable packages with domain, deployment, Google indexing and maintenance.',
-              url: 'https://agentechdevelopers.com',
-              breadcrumb: {
+              'url': 'https://agentechdevelopers.com',
+              'breadcrumb': {
                 '@type': 'BreadcrumbList',
-                itemListElement: [
-                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.com' },
-                ],
-              },
-            }),
+                'itemListElement': [
+                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.com' }
+                ]
+              }
+            })
           }}
         />
         <HeroSection />
