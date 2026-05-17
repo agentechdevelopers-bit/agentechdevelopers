@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     'Affordable school website development services by Agentech Developers in Hyderabad. Explore premium website design packages for schools in Telangana complete with SEO setup.',
   alternates: {
-    canonical: 'https://agentechdevelopers.com'
+    canonical: 'https://agentechdevelopers.vercel.app'
   }
 };
 
@@ -33,11 +33,11 @@ export default function HomePage() {
               'name': 'Agentech Developers - School Website Development Hyderabad',
               'description':
                 'Professional school website development agency in Hyderabad offering affordable packages with domain, deployment, Google indexing and maintenance.',
-              'url': 'https://agentechdevelopers.com',
+              'url': 'https://agentechdevelopers.vercel.app',
               'breadcrumb': {
                 '@type': 'BreadcrumbList',
                 'itemListElement': [
-                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.com' }
+                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.vercel.app' }
                 ]
               }
             })
