@@ -18,13 +18,13 @@ export const metadata: Metadata = {
     'web development agency contact',
   ],
   alternates: {
-    canonical: 'https://agentechdevelopers.com/contact',
+    canonical: 'https://agentechdevelopers.vercel.app/contact',
   },
   openGraph: {
     title: 'Contact Us — AgentechDevelopers',
     description:
       'Get a free school website quote from Agentech Developers. WhatsApp, call, or fill out our inquiry form.',
-    url: 'https://agentechdevelopers.com/contact',
+    url: 'https://agentechdevelopers.vercel.app/contact',
   },
 };
 
@@ -42,12 +42,12 @@ export default function ContactPage() {
               '@type': 'ContactPage',
               name: 'Contact — AgentechDevelopers',
               description: 'Contact page for Agentech Developers — school website development agency in Hyderabad.',
-              url: 'https://agentechdevelopers.com/contact',
+              url: 'https://agentechdevelopers.vercel.app/contact',
               breadcrumb: {
                 '@type': 'BreadcrumbList',
                 itemListElement: [
-                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.com' },
-                  { '@type': 'ListItem', position: 2, name: 'Contact', item: 'https://agentechdevelopers.com/contact' },
+                  { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://agentechdevelopers.vercel.app' },
+                  { '@type': 'ListItem', position: 2, name: 'Contact', item: 'https://agentechdevelopers.vercel.app/contact' },
                 ],
               },
             }),
