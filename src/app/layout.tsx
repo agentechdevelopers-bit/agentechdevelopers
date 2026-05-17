@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_IN',
-    url: 'https://agentechdevelopers.com',
+    url: 'https://agentechdevelopers.vercel.app',
     siteName: 'AgentechDevelopers',
     title: 'School Website Development Agency Hyderabad | Agentech Developers',
     description:
@@ -86,7 +86,7 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'ProfessionalService',
               'name': 'Agentech Developers',
-              'url': 'https://agentechdevelopers.com',
+              'url': 'https://agentechdevelopers.vercel.app',
               'logo': 'https://img.rocket.new/generatedImages/rocket_gen_img_133004601-1773386590840.png',
               'image': 'https://img.rocket.new/generatedImages/rocket_gen_img_133004601-1773386590840.png',
               'description':
