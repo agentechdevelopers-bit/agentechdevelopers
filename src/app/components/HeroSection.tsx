@@ -105,7 +105,7 @@ export default function HeroSection() {
       </div>
 
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 z-10" aria-hidden="true">
-        <span className="text-xs text-muted-foreground tracking-widest uppercase font-semibold">Scroll</span>
+        <span className="text-xs text-muted-foreground tracking-widest uppercase font-semibold"></span>
         <div className="w-px h-12 bg-gradient-to-b from-accent/60 to-transparent" />
       </div>
     </section>
