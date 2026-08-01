@@ -73,11 +73,11 @@ export default function WhyChooseSection() {
         <div className="max-w-2xl mb-16">
           <span className="section-label text-accent">Why Choose Us</span>
           <h2 className="text-section-title font-extrabold text-foreground mt-3 mb-5">
-            Everything Your School Needs.<br />
+            Everything Your Bussiness Needs.<br />
             
           </h2>
           <p className="text-base text-muted-foreground leading-relaxed">
-            We handle the entire digital setup for your school — from building the website to making sure Google can find it.
+            We handle the entire digital setup for your Bussiness — from building the website to making sure Google can find it.
           </p>
         </div>
 
@@ -109,9 +109,6 @@ export default function WhyChooseSection() {
                 </p>
               </div>
               <div className="flex items-center gap-3">
-                <span className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-xs font-bold tracking-wide">
-                  Market Rate: ₹30,000+
-                </span>
                 <span className="px-4 py-2 rounded-full bg-white/10 text-primary-foreground text-xs font-bold tracking-wide">
                   Our Rate: Much Less ✓
                 </span>
@@ -131,7 +128,7 @@ export default function WhyChooseSection() {
               <div>
                 <h3 className="text-xl font-extrabold text-foreground mb-2">Custom Domain Included</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  We purchase the exact domain your school wants and configure it completely — yourschoolname.in or .com.
+                  We purchase the exact domain your Bussiness wants and configure it completely — yourschoolname.in or .com.
                 </p>
               </div>
             </div>
@@ -149,7 +146,7 @@ export default function WhyChooseSection() {
               <div>
                 <h3 className="text-xl font-extrabold text-foreground mb-2">Google Indexing</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  We add your website to Google Search Console so parents and students can find your school on Google search results.
+                  We add your website to Google Search Console so users can find your school on Google search results.
                 </p>
               </div>
             </div>
@@ -168,7 +165,7 @@ export default function WhyChooseSection() {
               <div>
                 <h3 className="text-xl font-extrabold text-foreground mb-2">Full Year of Maintenance</h3>
                 <p className="text-muted-foreground text-base leading-relaxed max-w-lg">
-                  Content updates, maintainance and technical support for 12 months post-launch — no additional charges. Your school website stays fresh and secure.
+                  Content updates, maintainance and technical support for 12 months post-launch — no additional charges. Your Bussiness website stays fresh and secure.
                 </p>
               </div>
             </div>
