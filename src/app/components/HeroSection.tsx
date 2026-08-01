@@ -61,7 +61,7 @@ export default function HeroSection() {
         </div>
 
         <h1 className="text-hero-xl font-extrabold text-foreground tracking-tight">
-          Premium Website Design Hyderabad<br />
+          Premium Website Design in Hyderabad<br />
           <span className="text-gradient-gold">Built For High Search Rankings</span>
         </h1>
 
