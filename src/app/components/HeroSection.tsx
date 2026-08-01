@@ -57,16 +57,16 @@ export default function HeroSection() {
       <div className="relative z-10 max-w-6xl mx-auto px-6 text-center space-y-10">
         <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full border border-accent/20 bg-white/60 backdrop-blur-sm">
           <span className="w-2 h-2 rounded-full bg-accent animate-pulse" aria-hidden="true" />
-          <span className="section-label text-accent">School Website Development Agency · Hyderabad, Telangana</span>
+          <span className="section-label text-accent">Website Development Agency · Hyderabad, Telangana</span>
         </div>
 
         <h1 className="text-hero-xl font-extrabold text-foreground tracking-tight">
-          Premium School Website Design Hyderabad<br />
+          Premium Website Design Hyderabad<br />
           <span className="text-gradient-gold">Built For High Search Rankings</span>
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed font-medium">
-          Get custom school website design packages in Telangana at below-market rates. We engineer elite, high-performance websites integrated with full Google Search Console setup and custom domain configuration.
+          Get custom website design packages in Telangana at below-market rates. We engineer elite, high-performance websites integrated with full Google Search Console setup and custom domain configuration.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-2">
@@ -87,7 +87,7 @@ export default function HeroSection() {
         <div className="flex flex-wrap items-center justify-center gap-6 pt-4">
           <div className="flex items-center gap-2">
             <span className="text-accent text-lg" aria-hidden="true">✦</span>
-            <span className="text-xs font-bold text-muted-foreground tracking-wide">Best School Website Makers</span>
+            <span className="text-xs font-bold text-muted-foreground tracking-wide">Best Website Makers</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-accent text-lg" aria-hidden="true">✦</span>
@@ -95,7 +95,7 @@ export default function HeroSection() {
           </div>
           <div className="flex items-center gap-2">
             <span className="text-accent text-lg" aria-hidden="true">✦</span>
-            <span className="text-xs font-bold text-muted-foreground tracking-wide">School Website SEO Optimization</span>
+            <span className="text-xs font-bold text-muted-foreground tracking-wide">Website SEO Optimization</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-accent text-lg" aria-hidden="true">✦</span>
