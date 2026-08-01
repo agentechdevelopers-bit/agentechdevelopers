@@ -17,7 +17,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed max-w-xs">
-              Affordable, professional school websites — fully deployed, indexed on Google, and maintained for a year.
+              Affordable, professional Bussiness websites — fully deployed, indexed on Google, and maintained for a year.
             </p>
             <div className="udyam-badge inline-flex items-center gap-2 px-3 py-1.5 rounded-md">
               <span className="text-accent" aria-hidden="true">✦</span>
