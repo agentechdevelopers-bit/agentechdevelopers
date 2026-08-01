@@ -18,11 +18,11 @@ export default function ServicesHero() {
       <div className="max-w-4xl mx-auto px-6 text-center relative z-10 space-y-8">
         <span className="section-label text-accent">What We Offer</span>
         <h1 className="text-hero-lg font-extrabold text-foreground">
-          Complete School Website <br />
+          Complete Bussiness Portfolio Website <br />
           <span className="text-gradient-gold">Services in One Package.</span>
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-          From building your custom website to setting up your Google Business Profile — we handle the entire digital setup so your school is visible, professional, and easy to find online.
+          From building your custom website to setting up your Google Business Profile — we handle the entire digital setup so your Bussiness is visible, professional, and easy to find online.
         </p>
         <Link
           href="/contact"
