@@ -74,13 +74,12 @@ export default function OverviewSection() {
               <span className="section-label text-accent">Who We Are</span>
               <h2 className="text-section-title font-extrabold text-foreground leading-tight">
                 A Hyderabad Agency <br />
-                <span className="text-gradient-gold">Built for Schools.</span>
               </h2>
               <p className="text-base text-muted-foreground leading-relaxed">
-                Agentech Developers is a Udyam-registered web development agency based in Hyderabad, Telangana. We specialize in building customized, professional websites for schools — handling everything from domain purchase to Google Business Profile setup, so your school is visible where it matters most.
+                Agentech Developers is a Udyam-registered web development agency based in Hyderabad, Telangana. We specialize in building customized, professional websites for Businesses — handling everything from domain purchase to Google Business Profile setup, so your Bussiness is visible where it matters most.
               </p>
               <p className="text-base text-muted-foreground leading-relaxed">
-                We believe every school — regardless of size or budget — deserves a powerful digital presence. That is why our packages are priced significantly below the market rate without compromising on quality or features.
+                We believe every Bussiness — regardless of size or budget — deserves a powerful digital presence. That is why our packages are priced significantly below the market rate without compromising on quality or features.
               </p>
             </div>
 
