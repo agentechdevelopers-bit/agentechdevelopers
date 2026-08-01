@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Icon from '@/components/ui/AppIcon';
 
 const included = [
-  'Custom website design tailored for your school',
+  'Custom website design tailored for your Bussiness',
   'Domain name purchase ',
   'Full website deployment on professional hosting',
   'Google Search Console setup & sitemap submission',
@@ -56,10 +56,10 @@ export default function PricingSection() {
               <span className="section-label text-accent">Pricing</span>
               <h2 className="text-section-title font-extrabold text-foreground mt-3 mb-5">
                 Powerful Websites. <br />
-                <span className="text-gradient-gold">Prices Schools Can Afford.</span>
+                <span className="text-gradient-gold">Prices Your Bussiness Can Afford.</span>
               </h2>
               <p className="text-base text-muted-foreground leading-relaxed">
-                Many web agencies offer school websites with high upfront costs and additional charges for routine updates. We believe schools deserve a professional, modern online presence without unnecessary complexity or hidden expenses. That’s why our website packages are designed to be affordable, transparent, and accessible for institutions across Telangana and India.
+                Many web agencies offer Portfolio websites with high upfront costs and additional charges for routine updates. We believe Bussinesses deserve a professional, modern online presence without unnecessary complexity or hidden expenses. That’s why our website packages are designed to be affordable, transparent, and accessible for Bussinesses across Telangana and India.
               </p>
             </div>
 
