@@ -19,11 +19,11 @@ export default function ContactHero() {
       <div className="max-w-4xl mx-auto px-6 text-center relative z-10 space-y-6">
         <span className="section-label text-accent">Get in Touch</span>
         <h1 className="text-hero-lg font-extrabold text-foreground">
-          Let&apos;s Build Your School&apos;s <br />
+          Let&apos;s Build Your Bussiness&apos;s <br />
           <span className="text-gradient-gold">Digital Presence.</span>
         </h1>
         <p className="text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
-          Fill out the form below, send us a WhatsApp message, or give us a call. We will respond within 24 hours with a detailed proposal for your school.
+          Fill out the form below, send us a WhatsApp message, or give us a call. We will respond within 24 hours with a detailed proposal for your Bussiness.
         </p>
       </div>
     </section>
