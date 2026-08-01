@@ -84,7 +84,7 @@ export default function ContactPage() {
                   <span className="text-gradient-gold">Serving All of India.</span>
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  We are a Udyam-registered web development agency based in Gajularamaram, Hyderabad. While our office is in Telangana, we serve schools remotely across all states of India.
+                  We are a Udyam-registered web development agency based in Hyderabad. While our office is in Telangana, we serve your Bussiness remotely across all states of India.
                 </p>
                 <address className="not-italic space-y-3">
                   <div className="flex items-start gap-3">
