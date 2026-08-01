@@ -159,7 +159,7 @@ export default function ServicesBentoGrid() {
                 <div>
                   <h3 className="text-xl font-extrabold text-foreground mb-2">Domain Purchase</h3>
                   <p className="text-muted-foreground text-sm leading-relaxed">
-                    We purchase the exact domain name your school wants — .in, .com, or .org — and configure all DNS settings and SSL certificate.
+                    We purchase the exact domain name your Bussiness wants — .in, .com, or .org — and configure all DNS settings and SSL certificate.
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-auto">
@@ -185,7 +185,7 @@ export default function ServicesBentoGrid() {
                 <div>
                   <h3 className="text-xl font-extrabold text-foreground mb-2">Website Deployment</h3>
                   <p className="text-muted-foreground text-sm leading-relaxed">
-                    We deploy your website on fast, reliable hosting — ensuring high uptime and quick load times for parents and students.
+                    We deploy your website on fast, reliable hosting — ensuring high uptime and quick load times for Visitors.
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-auto">
@@ -208,7 +208,7 @@ export default function ServicesBentoGrid() {
                 <div>
                   <h3 className="text-xl font-extrabold text-foreground mb-2">Google Search Console</h3>
                   <p className="text-muted-foreground text-sm leading-relaxed">
-                    We add your school&apos;s website to Google Search Console and submit your sitemap so Google starts ranking your pages from day one.
+                    We add your Bussiness website to Google Search Console and submit your sitemap so Google starts ranking your pages from day one.
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-auto">
@@ -258,7 +258,7 @@ export default function ServicesBentoGrid() {
                 <div className="flex-1">
                   <h3 className="text-2xl font-extrabold text-foreground mb-3">Google Business Profile Setup</h3>
                   <p className="text-muted-foreground text-base leading-relaxed max-w-2xl">
-                    We create and verify your school&apos;s Google Business Profile — so your school appears on Google Maps, in local search results, and in the Google knowledge panel when parents search for your school by name. This is the single most important step for local discoverability.
+                    We create and verify your Bussiness Google Business Profile — so your Bussiness appears on Google Maps, in local search results, and in the Google knowledge panel when user search for your Bussiness by name. This is the single most important step for local discoverability.
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2 md:flex-col md:items-end shrink-0">
